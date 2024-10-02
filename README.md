@@ -63,7 +63,7 @@ Download file for further analysis, here are the log files output in JSON.
 
 ![logfile output](https://github.com/user-attachments/assets/20d37acd-14ac-43cf-a99f-13726258cafb)
 
-# Take nor of some key further for auditing purpose,
+# Take note of some key further for auditing purpose,
 1. The ARN of the account that deleted the file
 2. The IP were the event happened
 3. And some other detaild that would help in the audit and analysis
